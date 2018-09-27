@@ -1,7 +1,7 @@
 import subprocess
 
 # example
-#link = ['https://youtube.com/videos/1','https://www.dailymotion.com/video/2']
+# link = ['https://youtube.com/videos/1','https://www.dailymotion.com/video/2']
 link = ['',]
 
 for i in link:
